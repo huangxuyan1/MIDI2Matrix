@@ -1,2 +1,4 @@
 # MIDI2Matrix
-Converting MIDI files to matrices
+A python tool that converts MIDI files to matrices
+
+Dependencies: mido, numpy
